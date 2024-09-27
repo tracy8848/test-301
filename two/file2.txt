@@ -1,6 +1,2 @@
 file2
-<<<<<<< HEAD
 file3
-=======
-line2
->>>>>>> origin
